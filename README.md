@@ -5,7 +5,7 @@
 </h3>
 
 <blockquote align="center">
-“This repository was made to solve the fifth challenge of the<a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-nodejs/READMEmd">Rockeatseat GoStack Bootcamp 12</a>!”!
+“This repository was made to solve the fifth challenge of the <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-nodejs/READMEmd">Rockeatseat GoStack Bootcamp 12</a>”!
 </blockquote>
 
 <p align="center">
